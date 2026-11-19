@@ -1,36 +1,38 @@
 # CodeAlpha_Login_Registration
 
-# CGPA Calculator
+# CodeAlpha C++ Programming Internship
 
-## Project Overview
-This project is a simple CGPA Calculator
-developed using C++.
+## Internship Overview
+I am excited to be part of the CodeAlpha C++ Programming Internship.
 
-It calculates the semester GPA based on
-course grades and credit hours.
+This internship provides an opportunity to improve my programming skills, gain practical experience, and develop real-world projects using C++.
 
-## Features
-- Enter number of courses.
-- Enter course names.
-- Enter grades and credit hours.
-- Calculate total credits.
-- Calculate semester GPA.
-- Display final results.
+## Internship Domain
+C++ Programming
+
+## Organization
+CodeAlpha
+
+## Projects
+1. CGPA Calculator
+2. Login and Registration System
 
 ## Technologies Used
 - C++
 - Object-Oriented Programming
-- Vectors
-- Classes and Objects
+- File Handling
+- Data Structures
 
-## How to Run
-1. Download the source code.
-2. Open it in a C++ compiler.
-3. Compile the program.
-4. Run the executable file.
-
-## Internship
-CodeAlpha C++ Programming Internship
+## Internship Objectives
+- Improve C++ programming skills.
+- Understand problem-solving techniques.
+- Develop practical programming projects.
+- Gain hands-on software development experience.
 
 ## Author
 Nandika S.K
+
+## Internship Organization
+CodeAlpha
+
+Website: https://www.codealpha.tech/
